@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxx'
-compartmentId = 'xxxxxxx'
-availabilityDomain = "xxxxxxx"
-imageId = "xxxxxx"
-subnetId = 'xxxxx'
-ssh_authorized_keys = "xxxxxx"
+displayName = 'instance-20221107-1242'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaa76bbmij6bijkndq34wjntuwjli5aqjfkt4ekobte4lsyd3mqilwq'
+availabilityDomain = "pvPI:AP-HYDERABAD-1-AD-1"
+imageId = "ocid1.image.oc1.ap-hyderabad-1.aaaaaaaatrcrz26pphlblpduppycd2mkazocye7epuu5vxnuvf7wch43r6fa"
+subnetId = 'ocid1.subnet.oc1.ap-hyderabad-1.aaaaaaaapmiweuntnxx7qzhif45olr4fhkgvrczxlvijcldr4cnru2q5lxka'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDA5geS83Z9SXD1H83IAuFaxAaj7GiF44sxmlZIBgIFR/hJY7EAUTUn9KPKH+28XDdpBdQdYjeyCV+fFTrCz35oNG+W7HCaFVv4JrUOuECJprJxb2d/n5lG7NyvE9M2TyR6nl6CYB5BMqS2TLY7ETsi3n7eFzEHKgVJ57M39OWoFuLFYhp1MOuN6bGFhyauy9wLqInrcmMWDS2yLOO8j8ALraHLwpncrFygL4fSkGoZRAUeNBOgDrSoEeUs4/WJqxOarfnp9qui1VScAP2rFx4SyqoawuZ2wn8VbpakR5cD2U8kd465bB5mwSSv/3QOioZ1uDeKzUSMGkYWv5BdVJ7H ssh-key-2022-11-07"
 
 
 import oci
